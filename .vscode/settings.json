@@ -1,8 +1,19 @@
 {
-  "cSpell.words": ["Vitesse"],
+  "cSpell.words": [
+    "esno",
+    "newtab",
+    "Vitesse",
+    "vueuse",
+    "webext",
+    "webextension",
+    "iconify",
+    "ffflorian",
+    "unocss",
+    "kolorist",
+    "unplugin"
+  ],
+  "cSpell.ignorePaths": ["pnpm-lock.yaml"],
   "typescript.tsdk": "node_modules/typescript/lib",
-  "vite.autoStart": false,
-  "eslint.experimental.useFlatConfig": true,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "explicit"
   },
